@@ -49,4 +49,6 @@ void Multi_Ask::on_pushButton_clicked()
 
 ## ScreenShoot
 
+![multiCorrect.jpeg](https://github.com/kenjimaeda54/multi-ask-QT/blob/develop/multiCorrect.jpeg)
+![multiWrong.jpeg](https://github.com/kenjimaeda54/multi-ask-QT/blob/develop/multiWrong.jpeg)
 
