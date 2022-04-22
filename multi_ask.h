@@ -15,6 +15,9 @@ public:
     Multi_Ask(QWidget *parent = nullptr);
     ~Multi_Ask();
 
+private slots:
+    void on_pushButton_clicked();
+
 private:
     Ui::Multi_Ask *ui;
 };
